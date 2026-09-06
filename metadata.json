@@ -1,0 +1,6 @@
+{
+  "name": "ThreatNexus",
+  "description": "ThreatNexus - Advanced SOC Analyst Portal, Cyber Threat Intelligence Workbench, AI Log Analyzer, Interactive IOC Threat Graph, and Incident Forensics Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
